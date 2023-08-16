@@ -1,6 +1,6 @@
 # Quiz_App
 Ένα απλό quiz app για android
-##Προαπαιτούμενα
+## Προαπαιτούμενα
 -Android Studio
-##Εγκατάσταση
+## Εγκατάσταση
 Κάνουμε clone το project και έπειτα το ανοίγουμε στο Android Studio
